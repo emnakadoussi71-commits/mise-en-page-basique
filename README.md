@@ -127,4 +127,3 @@ Il constitue une étape importante pour apprendre à structurer des interfaces p
 
 
 
-Deux boutons alignés horizontalement
