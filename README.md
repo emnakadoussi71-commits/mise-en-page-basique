@@ -1,33 +1,33 @@
 # mise-en-page-basique
 
-Objectif
+Objectif :
 
 L’objectif de ce TP est de créer une interface simple en utilisant les widgets de base de Flutter afin de comprendre :
 
-L’organisation verticale avec Column
+- L’organisation verticale avec Column
 
-L’organisation horizontale avec Row
+- L’organisation horizontale avec Row
 
-L’utilisation de Container
+- L’utilisation de Container
 
-L’ajout d’espacement avec SizedBox
+- L’ajout d’espacement avec SizedBox
 
-L’utilisation de boutons interactifs
+- L’utilisation de boutons interactifs
 
-Description de l’application
+Description de l’application :
 
 L’application contient :
 
-Une barre supérieure (AppBar) avec le titre "Mise en page basique"
+- Une barre supérieure (AppBar) avec le titre "Mise en page basique"
 
-Un texte principal servant d’en-tête
+- Un texte principal servant d’en-tête
 
-Un conteneur coloré contenant du texte
+- Un conteneur coloré contenant du texte
 
-Deux boutons alignés horizontalement
+- Deux boutons alignés horizontalement
 
 
- Widgets utilisés
+ Widgets utilisés :
  
 🔹 Column
 
@@ -84,37 +84,40 @@ onPressed: () {},
   
 )
 
-🎨 Material Design et Cupertino
+🎨 Material Design et Cupertino :
 
-Flutter propose deux systèmes de design :
+- Flutter propose deux systèmes de design :
 
-Material Design → utilisé principalement pour Android
+- Material Design → utilisé principalement pour Android
 
-Cupertino → utilisé pour les applications iOS
+- Cupertino → utilisé pour les applications iOS
 
 Dans ce TP, nous avons utilisé Material Design via les widgets :
 
-MaterialApp
+- MaterialApp
 
-Scaffold
+- Scaffold
 
-AppBar
+- AppBar
 
-ElevatedButton
+- ElevatedButton
 
-✅ Résultat
+✅ Résultat final :
 
 L’application affiche :
 
-Un en-tête centré
+- Un en-tête centré
 
-Un bloc coloré avec texte
+- Un bloc coloré avec texte
 
-Deux boutons alignés horizontalement
+- Deux boutons alignés horizontalement
 
-Une mise en page propre et structurée
+- Une mise en page propre et structurée
 
-📌 Conclusion
+![ex2](ex2.jpg)
+
+
+ Conclusion :
 
 Ce TP permet de comprendre les bases de la mise en page dans Flutter en utilisant des widgets simples.
 
@@ -123,6 +126,5 @@ Il constitue une étape importante pour apprendre à structurer des interfaces p
 
 
 
-Un conteneur coloré contenant du texte
 
 Deux boutons alignés horizontalement
